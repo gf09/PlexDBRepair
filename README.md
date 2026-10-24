@@ -9,6 +9,17 @@
 [![Sponsor ChuckPa](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?style=flat&logo=github)](https://github.com/sponsors/ChuckPa)
 
 
+# 18-Oct-2026
+
+If you're seeing this,  you're on the "master" branch.    DBRepair has moved,  per GitHub standard to "main" branch
+
+master branch exists only for the with DBRepair.sh.   v1.17.02 is the upgrading version which bootstraps you from DBRepair.sh/ps1/bat 
+to the new program (ZIP) file. 
+
+Please switch to 'main' ,  scroll down, and select the zip file appropriate for your CPU & OS. 
+
+
+
 # 14-Oct-2026
 
 DBRepair is now in "Release Candidate" (pre-release) final testing.   Expecting to launch on schedule.
